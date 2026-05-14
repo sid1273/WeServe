@@ -27,8 +27,6 @@ const getRestaurants = async(req, res)=>{
             message: error.message,
         });
     }
-
-
 }
 
 module.exports ={
